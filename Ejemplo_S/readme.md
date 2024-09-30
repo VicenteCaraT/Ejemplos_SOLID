@@ -2,7 +2,7 @@
 
 ![Captura de pantalla 2024-09-30 094619](https://github.com/user-attachments/assets/3a19e67a-62fb-4985-b9d2-e92aa97ed197)
 
-En este ejemplo una única clas Empleado se encarga de:
+En este ejemplo una única clase Empleado se encarga de:
 - Almacenar los datos del empleado (nombre, salario, años de servicio).
 - Calcular el Salario Neto
 - Procesar los ascensos basados en los años de ser
